@@ -3,3 +3,5 @@ Diseño web moderno creado con HTML y TAILWIND CSS. Esta landing muestra una est
 
 
 Este trabajo fue un desafio ya que se utilizo Tailwind 
+
+agregue el footer y acomode las imagenes
